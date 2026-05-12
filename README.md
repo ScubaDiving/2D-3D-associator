@@ -66,7 +66,7 @@ If you find this work useful in your research, please cite:
 ```bibtex
 @inproceedings{seg2d3d2026,
   title={Joint 2D-3D Segmentation and Association in Street-level Imaging},
-  author={Amir et al.},
+  author={Melnikov A. et al.},
   booktitle={Proceedings of the International Conference on Pattern Recognition (ICPR)},
   year={2026}
 }
